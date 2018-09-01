@@ -4,9 +4,10 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Hello</title>
+<title>Insert title here</title>
 </head>
 <body>
-	<h1>Olá, USJT!</h1>
+	<h2>${filme.nome}</h2>
+	<h2>${filme.id}</h2>
 </body>
 </html>

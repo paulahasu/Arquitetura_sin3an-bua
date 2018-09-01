@@ -4,9 +4,14 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Hello</title>
+<title>Novo Filme</title>
 </head>
 <body>
-	<h1>Olá, USJT!</h1>
+	<form action="inserir" method="post">
+		<input type="text" name="nome" placeholder ="Digite o nome do Filme"><br>
+		<intput type="text" name = "descricao" placeholder ="Digite a descrição"><br> 
+		<input type="submit">
+	</form>
+
 </body>
 </html>
